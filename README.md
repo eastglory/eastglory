@@ -1,11 +1,4 @@
 
-<img
-  className="mt-4"
-  src="https://github-profile-trophy.vercel.app/?username=eastglory&column=7&theme=darkhub&no-bg=true&no-frame=true&margin-h=15&margin-w=12"
-  alt='github-trophy'
-/>
-
-
 
 #### Web & Mobile Development
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
